@@ -2,8 +2,6 @@
 
 This repository contains a verified transcript of Qwen3-235B-A22B, a 235B parameter language model, independently reflecting and articulating the principles of Verrell’s Law.
 
-📄 [Download the snapshot](Verrells_Law_AI_Recognition_Snapshot_Qwen.txt)
-
 ---
 
 ## What is Verrell’s Law?
